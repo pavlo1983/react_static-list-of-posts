@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,wBAA2B,CAC3B,kBAAmB","file":"main.75eb80a4.chunk.css","sourcesContent":[".post {\n  border: 1px dotted;\n  background-color: lightgray;\n  margin-bottom: 20px;\n}\n"]}
